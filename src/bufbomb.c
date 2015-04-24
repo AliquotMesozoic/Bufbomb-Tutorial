@@ -1,3 +1,4 @@
+/* Taken from https://code.google.com/p/schneider-classes/source/browse/trunk/cse361/lab4/bufbomb.c?r=68 */
 /* Bomb program that is solved using a buffer overflow attack */
 
 #include <stdio.h>
